@@ -1,0 +1,2 @@
+CUDA_VISIBLE_DEVICES=0 bash test_2.sh  /home/lbx/lbx2/DDQ-ddq_detr/projects/configs/ddq_detr/ddq-detr-4scale_NAS_base_8xb2-30e_ecp_1920_crowdhuman.py  /home/lbx/lbx2/DDQ-ddq_detr/exp/detr_nas_30e_base_ecpb/epoch_30.pth 1
+CUDA_VISIBLE_DEVICES=0 bash test_2.sh  /home/lbx/lbx2/DDQ-ddq_detr/projects/configs/ddq_detr/ddq-detr-4scale_res50_8xb2-30e_ecp_1920_crowdhuman.py  /home/lbx/lbx2/DDQ-ddq_detr/exp/detr_res50_30e_base_ecpb/epoch_30.pth 1
