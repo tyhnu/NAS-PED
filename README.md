@@ -160,15 +160,15 @@ GPUS=8 sh tools/slurm_test.sh partition_name job_name projects/configs/ddq_rcnn/
 
 | Backbone | Config | Download |
 |:--------:|:------:|:--------:|
-| NAS-PED-T | [config](NAS-PED-NAS_PED/projects/configs/ddq_rcnn/ddq_rcnn_nas_ped_t_3x_crowdhuman.py) | [model](https://drive.google.com/file/d/1dGbfEVK_DxMh0D__8GnVElfcOFREmE9k/view?usp=sharing) |
-| NAS-PED-S | [config](NAS-PED-NAS_PED/projects/configs/ddq_rcnn/ddq_rcnn_nas_ped_s_3x_crowdhuman.py) | [model](https://drive.google.com/file/d/1v-TU3AB5aSjW-OCwY2X7wNBa2TRV5s4E/view?usp=sharing) |
-| NAS-PED-B | [config](NAS-PED-NAS_PED/projects/configs/ddq_rcnn/ddq_rcnn_nas_ped_b_3x_crowdhuman.py) | [model](https://drive.google.com/file/d/1cvzTNYL_Q35QCP_dTG5BpDAuCQjdDnJr/view?usp=sharing) |
+| NAS-PED-T | [config](NAS-PED/projects/configs/ddq_rcnn/ddq_rcnn_nas_ped_t_3x_crowdhuman.py) | [model](https://drive.google.com/file/d/1dGbfEVK_DxMh0D__8GnVElfcOFREmE9k/view?usp=sharing) |
+| NAS-PED-S | [config](NAS-PED/projects/configs/ddq_rcnn/ddq_rcnn_nas_ped_s_3x_crowdhuman.py) | [model](https://drive.google.com/file/d/1v-TU3AB5aSjW-OCwY2X7wNBa2TRV5s4E/view?usp=sharing) |
+| NAS-PED-B | [config](NAS-PED/projects/configs/ddq_rcnn/ddq_rcnn_nas_ped_b_3x_crowdhuman.py) | [model](https://drive.google.com/file/d/1cvzTNYL_Q35QCP_dTG5BpDAuCQjdDnJr/view?usp=sharing) |
 
 ### DDQ FCN on EuroCityPersons (ECP)
 
 | Backbone | Config | Download |
 |:--------:|:------:|:--------:|
-| NAS-PED-S | [config](NAS-PED-NAS_PED/projects/configs/ddq_fcn/ddq_fcn_nas_ped_s_3x_ecp.py) | [model](https://drive.google.com/file/d/1kFvMYaBjKhVCO64auuyFFiviSXiojDKs/view?usp=sharing) |
+| NAS-PED-S | [config](NAS-PED/projects/configs/ddq_fcn/ddq_fcn_nas_ped_s_3x_ecp.py) | [model](https://drive.google.com/file/d/1kFvMYaBjKhVCO64auuyFFiviSXiojDKs/view?usp=sharing) |
 
 ## Citation
 
